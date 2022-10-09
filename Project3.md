@@ -1,4 +1,4 @@
-## A Simple 'To-Do' web application solution based on MERN stack in AWS Cloud.
+# A Simple 'To-Do' web application solution based on MERN stack in AWS Cloud.
 
 ### Step 1 – Backend Configuration
 #### i) InstalledExpressJS on the EC2 Ubuntu instance
