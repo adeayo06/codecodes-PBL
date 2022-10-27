@@ -1,6 +1,6 @@
 ## Client/Server Architecture Using a Mysql Relational Database Management System
 
-Client-Server architecture describe the relationship between two or more connectecd computer sharing data across the network. The computer that request for data is known as the client while the one that processes the request is known as the server.
+Client-Server architecture describe the relationship between two or more connectecd computer sharing data across the network. The computer that request for data is known as the client while the one that processes the request is known as the server. This connection is done via the local IPs of the both instances, this is possible because they both exist on the same local network (VPC).
 
 To demonstrate Client-Server architecture we will be using two EC2 instance with mysql-server and mysql-client respectively.
 
