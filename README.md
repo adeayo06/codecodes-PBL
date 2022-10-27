@@ -1,2 +1,2 @@
 # codecodes-PBL
-This is where I keep my Projects during my Internship at Code Codes.
+Repositories of my Projects during my Internship at Code Codes.
